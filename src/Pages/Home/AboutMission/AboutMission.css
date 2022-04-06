@@ -1,0 +1,24 @@
+.about-mission{
+    position: relative;
+    margin: 5% 0;
+}
+.motive{
+    margin: 0 auto;
+    text-align: center;
+}
+.motive h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #23282d;
+}
+.motive .bar{
+    margin: 2% auto;
+    width: 5%;
+    border: 3px solid #ef3e67;
+    background-color: #ef3e67;
+}
+.motive p{
+    font-size: 1.8rem;
+    color: gray;
+    font-style: italic;
+}

@@ -1,0 +1,17 @@
+.logo-img{
+    width: 70%;
+}
+.pages .page{
+    color: white;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+}
+.pages .page:hover{
+    color: #ef3e67;
+    border-bottom: 3px solid #ef3e67;
+    transition: all 0.3s;
+}
+.space-cover{
+    width: 100%;
+    height: 74vh;
+}

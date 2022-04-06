@@ -1,0 +1,21 @@
+.about-section{
+    position: relative;
+}
+.about-img{
+    width: 600px;
+    margin-top: 3%;
+    cursor: pointer;
+    filter: grayscale(100%);
+}
+.about-img:hover{
+    filter: grayscale(0%);
+    transform: translateY(-3%);
+    transition: transform 0.5s;
+}
+.about-detail{
+    position: absolute;
+    background-color: #ef3e67;
+    width: fit-content;
+    bottom: -10%;
+    right: 2%;
+}
